@@ -1,0 +1,34 @@
+body {
+	background: #333;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+#access {
+	background: red;
+	border: 3px solid white;
+	border-radius: 4px;
+	color: white;
+	font-family: impact, Arial, sans-serif;
+	font-size: 4em;
+	font-weight: 2em;
+	margin:15px auto  15px;
+	padding: 30px;
+	min-height: 150px;
+	text-align: center;
+	width: 400px;
+}
+#alphabet {
+	background: white;
+	color: black;
+	min-height: 10px;
+}
+#cipher {
+	background: red;
+	color: black;
+	font-weight: bold;
+	font-family: 'josefin sans', Arial, sans-serif;
+	font-size: 2em;
+	padding: 10px;
+}
+
