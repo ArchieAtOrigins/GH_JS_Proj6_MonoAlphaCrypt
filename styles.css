@@ -1,8 +1,16 @@
+/* Work on putting a border around each character */
 body {
 	background: #333;
 	color: white;
 	margin: 0;
 	padding: 0;
+}
+#alphabet, #cipher {
+	font-weight: bold;
+	font-family: 'josefin sans', Arial, sans-serif;
+	font-size: 2em;
+	min-height: 40px;
+	padding: 10px;
 }
 #access {
 	background: red;
@@ -20,15 +28,9 @@ body {
 }
 #alphabet {
 	background: white;
-	color: black;
-	min-height: 10px;
-}
+	color: black;}
 #cipher {
 	background: red;
 	color: black;
-	font-weight: bold;
-	font-family: 'josefin sans', Arial, sans-serif;
-	font-size: 2em;
-	padding: 10px;
-}
+	}
 
